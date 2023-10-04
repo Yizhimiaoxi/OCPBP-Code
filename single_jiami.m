@@ -1,7 +1,3 @@
-
-
-
-
 data=imread('LenaRGB.bmp');
 %image layer
 image=data(:,:,1);
