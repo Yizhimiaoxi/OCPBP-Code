@@ -34,9 +34,14 @@ Furthermore, our optimization technique for the BRQI image preparation circuit s
 
 # _Papper Information_
 
-_Title: Quantum image encryption algorithm via optimized quantum circuit and parity bit-plane permutation
-Author：Jinwen He, Hegui Zhu*, Xv Zhou
-Publishing journals：Journal ofInformation Security and Applications
-2024-03 |Journal article
-DOI: 10.1016/j.jisa.2024.103698
-Paper search link：linkinghub.elsevier.com/retrieve/pii/S2214212624000012_
+_Title: Quantum image encryption algorithm via optimized quantum circuit and parity bit-plane permutation_
+
+_Author：Jinwen He, Hegui Zhu*, Xv Zhou_
+
+_Publishing journals：Journal ofInformation Security and Applications_
+
+_2024-03 Journal article_
+
+_DOI: 10.1016/j.jisa.2024.103698_
+
+_Paper search link：linkinghub.elsevier.com/retrieve/pii/S2214212624000012_
