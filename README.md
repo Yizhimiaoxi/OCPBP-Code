@@ -45,3 +45,19 @@ _2024-03 Journal article_
 _DOI: 10.1016/j.jisa.2024.103698_
 
 _Paper search link：linkinghub.elsevier.com/retrieve/pii/S2214212624000012_
+ 
+# _Academic Citation_
+
+If our project has helped you academically, please consider the following citation:
+
+```
+# @article{he2024quantum,
+  title={Quantum image encryption algorithm via optimized quantum circuit and parity bit-plane permutation},
+  author={He, Jinwen and Zhu, Hegui and Zhou, Xv},
+  journal={Journal of Information Security and Applications},
+  volume={81},
+  pages={103698},
+  year={2024},
+  publisher={Elsevier}
+}
+```
