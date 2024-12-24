@@ -28,9 +28,9 @@ significant promise for improving quantum image communication and application._
 
 # _Conclusions_
 
-This paper introduces the OCPBP quantum encryption algorithm, which incorporates an optimized quantum circuit and a parity bit-plane permutation.  It effectively addresses the issue of non-random keys observed in existing BRQI-based encryption methods.  The bit-plane-based permutation operation, in conjunction with the row-column-based permutation operation, not only alters the color of individual pixels but also shuffles their positions, enhancing overall security.
+_This paper introduces the OCPBP quantum encryption algorithm, which incorporates an optimized quantum circuit and a parity bit-plane permutation.  It effectively addresses the issue of non-random keys observed in existing BRQI-based encryption methods.  The bit-plane-based permutation operation, in conjunction with the row-column-based permutation operation, not only alters the color of individual pixels but also shuffles their positions, enhancing overall security._
 
-Furthermore, our optimization technique for the BRQI image preparation circuit significantly reduces both complexity and memory requirements. Specifically, it reduces the number of auxiliary qubits needed from n+3 to just 2 for (n+5)-CNOT gate preparation. The simulation and contrast experiments illustrate that OCPBP exhibits a favorable combination of low complexity and robust security. It is also appropriate for gray-scale, color, and various types of images. In the future, we plan to extend the encryption algorithm to scramble the encryption of color channels based on the properties of the BRQI model.
+_Furthermore, our optimization technique for the BRQI image preparation circuit significantly reduces both complexity and memory requirements. Specifically, it reduces the number of auxiliary qubits needed from n+3 to just 2 for (n+5)-CNOT gate preparation. The simulation and contrast experiments illustrate that OCPBP exhibits a favorable combination of low complexity and robust security. It is also appropriate for gray-scale, color, and various types of images. In the future, we plan to extend the encryption algorithm to scramble the encryption of color channels based on the properties of the BRQI model._
 
 # _Papper Information_
 
