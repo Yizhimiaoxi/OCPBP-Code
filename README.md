@@ -8,6 +8,8 @@ The code has been implemented to encrypt grayscale images, generating key image,
 Furthermore, we have included comments in the code to aid readers in understanding.
 For RGB color images, the encryption and decryption processes can be achieved by separately encrypting the R, G, and B layers and subsequently recombining them._
 
+_This project is based on the algorithm code described in the paper: “Quantum image encryption algorithm via optimized quantum circuit and parity bit-plane permutation”. In order to let everyone understand the simulation principle of quantum image encryption algorithm in classical computers, some annotations are made in the MATLAB code._
+
 # _Abstract_
 
 _Quantum image encryption technology employs the unique features of superposition, entanglement, and
